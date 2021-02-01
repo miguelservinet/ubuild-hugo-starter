@@ -12,7 +12,7 @@ link_text = "Inicio"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections.navigation]]
-link_text = "About"
+link_text = "Acerca de"
 link_url = "/"
 open_in_new_tab = false
 [[page_sections.navigation]]
